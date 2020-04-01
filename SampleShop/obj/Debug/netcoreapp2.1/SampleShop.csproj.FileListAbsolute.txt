@@ -1,0 +1,17 @@
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/SampleShop.deps.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/SampleShop.runtimeconfig.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/SampleShop.runtimeconfig.dev.json
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/SampleShop.dll
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/bin/Debug/netcoreapp2.1/SampleShop.pdb
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.csproj.CoreCompileInputs.cache
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.RazorAssemblyInfo.cache
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.RazorAssemblyInfo.cs
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.AssemblyInfoInputs.cache
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.AssemblyInfo.cs
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.RazorTargetAssemblyInfo.cache
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.dll
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.pdb
+/Users/keithwillis/Downloads/devskiller-code-GA7A-9YRX-UT-S0F/SampleShop/obj/Debug/netcoreapp2.1/SampleShop.genruntimeconfig.cache
