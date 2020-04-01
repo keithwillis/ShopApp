@@ -1,0 +1,2 @@
+# ShopApp
+Shop app project is about exposing WEB API for the purposes of viewing items and creating orders. There is a given set of items available in the system, and each order has a collection of items and quantity. API allows listing items - there is no possibility to manipulate them. Project concentrates on orders - we can list/add/delete and get basic statistics about them. Simple, custom, in-memory database is used as a storage mechanism for the purposes of the project.
